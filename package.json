@@ -1,0 +1,12 @@
+{
+  "name": "mi-primer-jenkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node suma.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
