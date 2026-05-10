@@ -1,7 +1,7 @@
 const suma = require("./suma");
 
 if (suma(2, 3) === 5) {
-  console.log("✅ Prueba pasada! - Trigger funcionando, probando");
+  console.log("✅ Prueba pasada! - Trigger funcionando, probando y prueb con node");
 
   process.exit(0);
 } else {
